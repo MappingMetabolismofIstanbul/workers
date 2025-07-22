@@ -146,7 +146,7 @@ var config = {
             alignment: 'full',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/3m5Fxxhm/k-rk2-yeni.jpg',
+            image: 'https://i.ibb.co/JRLTnpHv/MEF-AAP-027-BAP-PART-II-2025-07-22-10-39-07.png',
             description: '',
             location: {
                 center: [28.95424276865587,41.01453943415163],
