@@ -29,7 +29,7 @@ var config = {
             image: '',
             description: '',
             location: {
-                center: [28.95572682117555,41.01597581641471],
+                center: [28.95424276865587,41.01453943415163],
                 zoom: 13,
                 pitch: 60,
                 bearing: 0
@@ -59,7 +59,7 @@ var config = {
             image: '',
             description: '',
             location: {
-                center: [28.95572682117555,41.01597581641471],
+                center: [28.95424276865587,41.01453943415163],
                 zoom: 17,
                 pitch: 60,
                 bearing: 0
@@ -89,7 +89,7 @@ var config = {
             image: '',
             description: '',
             location: {
-                center: [28.95572682117555,41.01597581641471],
+                center: [28.95424276865587,41.01453943415163],
                 zoom: 17,
                 pitch: 60,
                 bearing: 0
@@ -119,7 +119,7 @@ var config = {
             image: 'https://i.ibb.co/0jJTdgDq/i-iler.png',
             description: '',
             location: {
-                center: [28.95572682117555,41.01597581641471],
+                center: [28.95424276865587,41.01453943415163],
                 zoom: 17,
                 pitch: 60,
                 bearing: 0
@@ -149,7 +149,7 @@ var config = {
             image: 'https://i.ibb.co/JRLTnpHv/MEF-AAP-027-BAP-PART-II-2025-07-22-10-39-07.png',
             description: '',
             location: {
-                center: [28.95572682117555,41.01597581641471],
+                center: [28.95424276865587,41.01453943415163],
                 zoom: 17,
                 pitch: 60,
                 bearing: 0
