@@ -116,7 +116,7 @@ var config = {
             alignment: 'centered',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/FbLzpXYy/WORKERS.png',
+            image: 'https://i.ibb.co/0jJTdgDq/i-iler.png',
             description: '',
             location: {
                 center: [28.95572682117555,41.01597581641471],
@@ -143,10 +143,10 @@ var config = {
         },
         {
             id: '5',
-            alignment: 'right',
+            alignment: 'centered',
             hidden: false,
             title: '',
-            image: '',
+            image: 'https://i.ibb.co/JRLTnpHv/MEF-AAP-027-BAP-PART-II-2025-07-22-10-39-07.png',
             description: '',
             location: {
                 center: [28.95572682117555,41.01597581641471],
